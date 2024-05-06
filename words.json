@@ -41,11 +41,5 @@
     {"palavra": "api", "dica": "integrar e comunicar sistemas e serviços de software."},
     {"palavra": "rest", "dica": "criar e consumir apis web de maneira simples e eficiente."},
     {"palavra": "graphql", "dica": "consultar e manipular dados de forma eficiente e flexível."},
-    {"palavra": "oauth", "dica": "implementar autenticação e autorização em aplicativos."},
-    {"palavra": "ssl", "dica": "criptografar e garantir a segurança das comunicações na web."},
-    {"palavra": "blockchain", "dica": "criar e implantar aplicativos descentralizados e contratos inteligentes."},
-    {"palavra": "criptografia", "dica": "proteger dados e comunicações por meio de técnicas de criptografia."},
-    {"palavra": "machinelearning", "dica": "desenvolver sistemas que aprendem e melhoram com a experiência."},
-    {"palavra": "deeplearning", "dica": "criar modelos de aprendizado profundo para tarefas complexas de inteligência artificial."},
-    {"palavra": "reinforcementlearning", "dica": "treinar agentes para tomar decisões otimizadas em ambientes complexos."}
+    {"palavra": "oauth", "dica": "implementar autenticação e autorização em aplicativos."}
 ]
